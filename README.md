@@ -6,12 +6,6 @@ This is a Spring Boot application that tracks couriers when they enter the radiu
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 Prerequisites
 
-To run this application, you will need:
-
-    Java 11
-    Maven
-    PostgreSQL 9.6 
-    An IDE, such as Eclipse or IntelliJ
 
 Installing
 
